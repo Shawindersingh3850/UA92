@@ -1,0 +1,65 @@
+img.navbar-brand{
+    height: 90px;
+    width: auto;
+}
+
+ul.navbar-nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li.nav-item {
+
+    float: left;
+    color: #6594F5;
+}
+
+li a.nav-link:hover {
+    color: #b1e924;
+}
+
+li a.nav-link:active {
+    background-color: #02affa;
+}
+
+h1{
+    color: #96c423;
+}
+
+p.lead{
+    color: #9fbe4e;
+}
+
+h2{
+    color: #9cc634;
+}
+
+h5.card-title{
+color: #29a8df;
+}
+
+P.card-text{
+color: #79d7ff;
+}
+
+div.card{
+    background-color: rgb(107, 107, 107);
+}
+
+li.list-group-item{
+    background-color: rgb(107, 107, 107);
+    color: #79d7ff;
+}
+
+p{
+   color: #42c3fa; 
+}
+
+div#contact{
+    background-color: rgb(232, 232, 232);
+}
+ 
+li{
+color: #42c3fa;
+ }
